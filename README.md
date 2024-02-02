@@ -2,12 +2,11 @@
 
 #1 Get a pdf you want to send, name it "printerPort.pdf"<br>
 #2 get a list of ips to send to, This is the raw input from your ip scanner (such as angry ip scanner). Put this text in the "ips.txt" file<br>
-
-Example { <br>
-  xxx.xxx.xx.xxx  0 ms            80,443,9100     *         *  [n/a]                Mon, xx Jan 202x<br>
-  xxx.xxx.xx.xxx  0 ms            80,443,9100     *         *  [n/a]                Mon, xx Jan 202x<br>
-  xxx.xxx.xx.xxx  0 ms            80,443,9100     *         *  [n/a]                Mon, xx Jan 202x<br>
-} <br>
+<pre>
+  xxx.xxx.xx.xxx  0 ms            80,443,9100     *         *  [n/a]                Mon, xx Jan 202x
+  xxx.xxx.xx.xxx  0 ms            80,443,9100     *         *  [n/a]                Mon, xx Jan 202x
+  xxx.xxx.xx.xxx  0 ms            80,443,9100     *         *  [n/a]                Mon, xx Jan 202x
+</pre>
 
 #3 Start the start.bat file<br>
 
