@@ -1,2 +1,0 @@
-node print.js
-pause
